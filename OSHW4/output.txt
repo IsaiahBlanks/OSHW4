@@ -1,0 +1,3 @@
+Array min: 1
+Array max: 13212
+Array avg: 1899
